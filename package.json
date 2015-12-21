@@ -1,0 +1,13 @@
+{
+  "repository": {},
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.3.21",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "copy-webpack-plugin": "^0.3.3",
+    "css-loader": "^0.23.0",
+    "extract-text-webpack-plugin": "^0.9.1",
+    "webpack": "^1.12.9"
+  }
+}
